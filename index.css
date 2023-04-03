@@ -65,7 +65,7 @@ img[src="/images/banner.png"] {
 }
 
 .content-row {
-  display: flex;
+  display: inline-block;
 }
 
 .content-row div {
